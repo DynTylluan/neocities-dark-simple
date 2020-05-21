@@ -4,7 +4,7 @@ Black with grey-white text; green and blue links. Only affects the main Neocitie
 # Notes from latest update:
 Version: 1.0 (2016.01.17) - A few things are missing but it's perfectly usable!
 
-Made by: www.lusentoj.neocities.org (or: Ringlat on LiveJournal)
+Made by: [lusentoj.neocities.org](https://lusentoj.neocities.org) (or: Ringlat on LiveJournal)
 
 The colors, in case you want to replace them:
 
